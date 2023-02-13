@@ -108,10 +108,6 @@
     border-radius: 15px;
    }
 
-   a:focus {
-    outline: 2px lightgreen solid;
-    
-}
 
    @media screen and (max-width: 375px) {
     body {
